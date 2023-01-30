@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstProgram</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="enter_first_num">Введите первое число</string>
+    <string name="enter_second_num">Введите второе число</string>
+    <string name="addition">Сложить числа</string>
+</resources>
